@@ -1,2 +1,2 @@
 # CreativeComputationArtShowPrep
-Thi is a practice version of my art show project.
+This is a practice version of my art show project.
